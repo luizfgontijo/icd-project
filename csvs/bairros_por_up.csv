@@ -1,0 +1,323 @@
+ID_BAC,NOME,NOME_UNID_PLANEJAMENTO,perc_bairro_na_up
+1,Esplendor,Mantiqueira/Sesc,100.0
+2,São Damião,Jaqueline,99.61410592247884
+3,Canaã,Jaqueline,97.95215684330223
+4,Califórnia,Jaqueline,100.0
+5,Letícia,Piratininga,71.87690880540535
+6,Europa,Jardim Europa,84.69806349387142
+7,Cenáculo,Jardim Europa,97.69807456362408
+8,Satélite,Jaqueline,65.59888977923886
+9,Paraúna,Piratininga,79.85241313517909
+10,Leblon,Piratininga,100.0
+11,da Lagoa,Céu Azul,53.69541632416963
+12,Céu Azul,Céu Azul,86.79195418271004
+13,Mangueiras,Céu Azul,99.95662712894567
+14,Nova Pampulha,Garças/Braúnas,100.0
+15,Xangri-lá,Garças/Braúnas,100.0
+16,do Trevo,Garças/Braúnas,99.80609932117275
+17,das Garças,Garças/Braúnas,96.67234486643869
+18,Sinimbu,Copacabana,99.98475768923998
+19,de Venda Nova,Venda Nova,99.74216023920326
+20,Nossa Senhora Aparecida,São João Batista,100.0
+21,Helena Antipoff,Santa Amélia,95.58820614540842
+22,Monte Carmelo,Copacabana,99.99191913127555
+23,Jardim Pampulha,Copacabana,98.94723827227502
+24,Monte Castelo,Santa Amélia,98.11789251431927
+25,Copacabana,Copacabana,76.31470848980213
+26,Santa Branca,Santa Amélia,99.93248549559623
+27,Itapoã,Santa Amélia,99.91884363058247
+28,Marilene,Planalto,99.8966998725328
+29,Campo Alegre,Planalto,99.83173481755904
+30,Santo Inácio,Planalto,99.77893565688983
+31,Planalto,Planalto,53.0964562747408
+32,São Vicente,Santa Amélia,50.630744381039385
+33,São Tomaz,São Bernardo,99.96097465105494
+34,Atlântico,Pampulha,60.18327569474972
+35,Aeroporto,Jaraguá,98.7363129776766
+36,Heliópolis,São Bernardo,92.70092635841249
+37,Floramar,Tupi/Floramar,94.34913155556457
+38,Jardim Guanabara,Tupi/Floramar,71.23711388745228
+39,Jardim Felicidade,Jardim Felicidade,98.92933472094093
+40,Monte Azul,Isidoro Norte,96.57912770206792
+41,Tupi,Furquim Werneck,51.406527065736995
+42,Antônio Ribeiro de Abreu,Ribeiro de Abreu,72.01724175131231
+43,Primeiro de Novembro,Primeiro de Maio,96.53739967229458
+44,São Gonçalo,Primeiro de Maio,100.0
+45,Tabelião Ferraz,Primeiro de Maio,100.0
+46,Confisco,Confisco,99.88387483581556
+47,da Lagoa,Sarandi,68.27225272219553
+48,Itatiaia,Sarandi,97.32800797375121
+49,dos Bandeirantes,Pampulha,98.97890322021983
+51,Ouro Preto,Ouro Preto,89.71336074406733
+52,São José,Pampulha,95.48300700800205
+53,Jaraguá,Jaraguá,100.0
+54,Vila Rica,Jaraguá,100.0
+55,Liberdade,Jaraguá,91.27806806227949
+56,Indaiá,Jaraguá,54.23981997536232
+57,Santa Rosa,Jaraguá,100.0
+58,Dona Clara,Jaraguá,94.48359846406312
+59,Santa Maria,Primeiro de Maio,99.80150220284703
+60,Primeiro de Maio,Primeiro de Maio,99.62356000621581
+61,Primeiro de Maio,Primeiro de Maio,99.99240492487353
+62,São Gabriel,Belmonte,100.0
+63,Belmont,Belmonte,100.0
+64,Dom Silvério,Belmonte,72.9626430568864
+65,Nazaré,Belmonte,99.2027815615223
+66,Maria,Gorduras,100.0
+67,Vitória,Gorduras,99.95538859636147
+68,Aarão Reis,São Paulo/Goiânia,54.38926234611715
+69,São Paulo,São Paulo/Goiânia,99.38818026852049
+70,São Marcos,São Paulo/Goiânia,100.0
+71,São Paulo,São Paulo/Goiânia,100.0
+72,Fernão Dias,São Paulo/Goiânia,99.97651577784525
+73,Universitário,Jaraguá,76.40670664449662
+74,dos Palmares,Cristiano Machado,95.19496411517477
+75,União,Cristiano Machado,74.09637551249884
+76,Santa Cruz,Cachoeirinha,94.29539674696004
+77,Serrano,Sarandi,53.2444305338135
+78,Celso Machado,Abílio Machado,100.0
+79,Itacolomi,Abílio Machado,100.0
+80,do Castelo,Castelo,99.85947887301327
+81,Paquetá,Ouro Preto,94.88828129974321
+82,"São Francisco, Terceira Seção",São Francisco,99.9452695997967
+83,"São Francisco, Oitava Seção",São Francisco,99.75777449133633
+84,"São Francisco, Primeira Seção",São Francisco,99.32149498687814
+85,"São Francisco, Quarta Seção",São Francisco,100.0
+86,"São Francisco, Segunda Seção",São Francisco,99.9055347927416
+87,"São Francisco, Quinta Seção",São Francisco,54.23340527178215
+88,Sumaré,Antônio Carlos,100.0
+89,"São Francisco, Sexta Seção",Antônio Carlos,94.34221191904983
+90,Ermelinda,Antônio Carlos,99.99934429440496
+91,Maria Aparecida,Antônio Carlos,100.0
+92,Riachuelo,Antônio Carlos,85.77904171343539
+93,Industrial Melo Viana,Cristiano Machado,98.39565855934852
+94,Cachoeirinha,Cachoeirinha,61.57412283406688
+95,Maura,Cristiano Machado,100.0
+96,Ipiranga,Cristiano Machado,95.99578275367166
+97,Santa Inês,Instituto Agronômico,53.006325937887546
+98,Nova Floresta,Cristiano Machado,100.0
+99,Cidade Jardim,Pompéia,99.98870180030072
+100,Vera Cruz,Taquaril,70.57597384466978
+101,Cruzeiro do Sul,Pompéia,99.86831576726563
+102,das Castanheiras,Taquaril,73.27559961019813
+103,Novo Horizonte,Pompéia,97.71346006111234
+104,Jonas Veiga,Baleia,86.87179403842858
+105,Pirineus,Baleia,100.0
+106,Cônego Pinheiro,Santa Efigênia,100.0
+107,dos Coqueiros,Glória,99.96996683266843
+108,Patrocínio,Glória,99.92378244379312
+109,Alípio de Melo,Abílio Machado,99.83607114397496
+110,Caparaó,Caiçara,95.7405234240293
+111,Caiçaras,Caiçara,99.74016666208527
+112,Senhor Bom Jesus,Antônio Carlos,100.0
+113,Adélia,Antônio Carlos,99.33959794737218
+114,Azul,Cachoeirinha,60.989445494088244
+115,Canadá,Concórdia,53.073941608337336
+116,Renascença,Cristiano Machado,96.22574446813707
+117,Tiradentes-Concórdia,Concórdia,99.16924785487411
+118,da Graça,Cristiano Machado,99.81386494582183
+119,Sagrada Família,Instituto Agronômico,98.25905716077678
+120,Palmares,Antônio Carlos,99.34055620839291
+121,Santo André,Antônio Carlos,96.3663108789239
+122,Prado Lopes,Prado Lopes,93.7205253806263
+123,Senhor dos Passos I,Prado Lopes,86.68290411869208
+124,Angélica,Antônio Carlos,100.0
+125,São Leopoldo,Antônio Carlos,90.86832279757994
+126,Santa Ana,Caiçara,99.74453513261422
+127,Santa Terezinha,Caiçara,100.0
+128,Adelaide,Caiçara,99.65583246602138
+129,Minas Gerais,Caiçara,73.85056980280658
+130,Inconfidência,Abílio Machado,99.6494291431241
+131,Pindorama,Glória,100.0
+132,da Glória,Glória,99.92161990291322
+133,Trinta e Um de Março,PUC,51.42325199796398
+134,Dom Bosco,Abílio Machado,76.92197934896222
+135,PUC,PUC,100.0
+136,Minas Brasil,Padre Eustáquio,99.65171377979249
+137,Presidente Juscelino,Caiçara,99.96107896081597
+138,Futuro,Caiçara,64.63033501560781
+139,Santos Dumont,Padre Eustáquio,99.96574909818881
+140,Santa Rita,Padre Eustáquio,99.90242057317728
+141,Padre Eustáquio,Padre Eustáquio,99.99970995697878
+142,Celeste Império,Padre Eustáquio,99.44684187582673
+143,Coração Eucarístico de Jesus,PUC,99.98079218428813
+144,João Pinheiro,PUC,99.90245156314764
+145,Ouro Preto,PUC,100.0
+146,Santa Maria,Santa Maria,99.00052023374052
+147,Santa Luzia,Santa Maria,100.0
+148,Batista,Cabana,97.71801344039878
+149,Camargos,Santa Maria,85.64486011645339
+150,Jardinópolis,Cabana,50.4663499580664
+151,Vargem de Tijuco,Cabana,100.0
+152,Cabana do Pai Tomás,Cabana,100.0
+153,das Oliveiras,Jardim América,74.83068976565838
+154,Cavalieri,Jardim América,100.0
+155,Nova Suíça,Jardim América,100.0
+156,Atlântida,Jardim América,100.0
+157,Bom Pastor,Jardim América,100.0
+158,da Gameleira,Cabana,77.1135058301123
+159,Carlos Prates,Padre Eustáquio,43.36367678090787
+160,Sétima,Floresta/Santa Tereza,98.95124590184564
+161,Adelina,Jardim América,100.0
+162,Alvina,Barroca,99.9394686946786
+163,Marinhos,Jardim América,100.0
+164,Lídia,Barroca,100.0
+165,Grajaú,Barroca,99.91024720375641
+166,Jardim América,Jardim América,96.71185656096078
+167,São Domingos,Jardim América,100.0
+168,Santa Sofia,Morro das Pedras,99.99613639702952
+169,Antena,Morro das Pedras,100.0
+170,"São Jorge, Segunda Seção",Morro das Pedras,99.86750762089768
+171,"São Jorge, Primeira Seção",Morro das Pedras,86.57647014597585
+173,"São Jorge, Terceira Seção",Morro das Pedras,99.86866589602126
+174,Terceira,Barroca,90.07008683351707
+175,Oitava,Barro Preto,97.87337447723654
+176,Segunda,Centro,97.10374259892338
+177,Nona,Savassi,98.76188012479041
+178,Terceira,Centro,74.78058257044484
+179,Quarta,Savassi,91.97215172629394
+180,Sexta,Savassi,65.88521405195904
+181,Primeira,Centro,71.99688155164021
+182,Décima Terceira,Francisco Sales,98.7312287981521
+183,Décima Primeira,Savassi,99.92697299304942
+184,Quinta,Savassi,100.0
+185,Sétima,Savassi,99.32929111715798
+186,Aparecida,Cafezal,99.71520835435042
+188,Nossa Senhora do Rosário,Santa Efigênia,70.36691608684869
+189,Fazendinha,Baleia,96.57571641483992
+190,Santana do Cafezal,Cafezal,79.93574506171153
+191,Nossa Senhora de Fátima,Cafezal,64.51765536844562
+192,Paraíso,Santa Efigênia,87.02689583094079
+193,Primeira,Serra,71.95782793235506
+194,Segunda,Santo Antônio,67.68149918058143
+195,Décima Segunda,Savassi,56.40664003818428
+196,Décima,Savassi,99.95895722241532
+197,Austin,Mangabeiras,99.70287095660093
+198,Sion,Anchieta/Sion,62.779505897360885
+199,Estrela,Barragem,99.27163721322796
+200,Santa Rita de Cássia,Barragem,99.61771979830483
+201,Santa Lúcia,Barragem,98.51540541106067
+202,Afonso Pena,Prudente de Morais,56.28427470344518
+203,Leonina,Morro das Pedras,96.58551702435466
+204,Vista Alegre,Cabana,97.44696699230437
+205,Vista Alegre,Cabana,96.08012596246213
+206,COPASA,Barreiro de Cima,100.0
+207,Nova dos Milionários,Barreiro de Cima,100.0
+208,Havaí,Jardim América,58.62691170352008
+209,Belvedere,Belvedere,99.02634978392769
+210,Estoril,Estoril/Buritis/Pilar Oeste,97.33303591873613
+211,Palmeiras,Betânia,91.81939961730285
+212,dos Buritis,Estoril/Buritis/Pilar Oeste,94.52192655320508
+213,Túnel de Ibirité,Lindéia,100.0
+214,do Tirol,Lindéia,68.55684617906144
+215,Tirol,Lindéia,100.0
+216,Átila de Paiva,Barreiro de Baixo,100.0
+217,Flávio Marques Lisboa,Barreiro de Cima,90.939359510276
+218,CEMIG,Barreiro de Cima,100.0
+219,das Indústrias,Bairro das Indústrias,74.60702061427055
+220,Ademar Maldonado,Barreiro de Baixo,100.0
+221,do Barreiro,Barreiro de Baixo,99.92748024003158
+222,Miramar,Cardoso,99.91103187279725
+223,Getúlio Vargas,Cardoso,100.0
+224,Urucuia,Cardoso,81.17354940859595
+225,Jatobá,Jatobá,95.89483744521922
+226,Solar do Barreiro,Barreiro-Sul,99.99233992420274
+227,Independência,Jatobá,92.61955417721605
+228,Cristo Redentor,Barreiro de Cima,100.0
+229,dos Milionários,Barreiro de Cima,87.51689478440795
+230,Oeste,PUC,100.0
+231,dos Manacás,Jardim Montanhês,54.010752089030646
+232,Adalberto Ferraz,Anchieta/Sion,99.9492480389117
+233,Comiteco,Mangabeiras,78.47632600514302
+234,Décima Quarta,Francisco Sales,99.61346567318344
+235,Oitava,Serra,63.072253041463135
+236,São Lucas,Santa Efigênia,85.77865505934761
+237,Bias Fortes,Santa Efigênia,98.86125476138035
+238,Novo São Lucas,Santa Efigênia,94.64582519303109
+239,Esplanada,Pompéia,74.53831965415146
+240,Mauá,Instituto Agronômico,100.0
+241,São João,Instituto Agronômico,100.0
+242,Boa Vista,Boa Vista,93.573542367433
+243,Edgard Werneck,Instituto Agronômico,97.79787135025042
+244,Cidade Jardim Taquaril,Baleia,99.9850351725057
+245,da Baleia,Baleia,88.42765950330399
+246,Olhos d´Água,Estoril/Buritis/Pilar Oeste,99.91439502960621
+247,Araguaia,Barreiro de Cima,99.96457734502864
+248,Bonsucesso,Barreiro de Cima,96.07040265712024
+249,do Pilar,Barreiro-Sul,78.58541825218326
+250,Brasil Industrial,Cardoso,99.98431780565846
+251,Diamante,Barreiro de Baixo,66.18693254983134
+252,Itaipu,Lindéia,98.25146301586588
+253,do Barreiro,Lindéia,98.2513397868637
+254,Resplendor,Barreiro de Baixo,82.96560252052635
+255,Tiradentes,Betânia,100.0
+256,São José,Betânia,100.0
+257,Cinqüentenário,Betânia,94.06375087664483
+258,Estrela do Oriente,Betânia,99.97420463693138
+259,Santa Lúcia,São Bento/Sta. Lúcia,82.72675439863141
+260,São Bento,São Bento/Sta. Lúcia,98.47661493343155
+261,Paris,Prudente de Morais,93.39152689459769
+262,Silveira,Cristiano Machado,90.69716874589079
+263,Mantiqueira,Mantiqueira/Sesc,99.0567121861947
+264,Serra Verde,Serra Verde,99.44519044956796
+265,Nova York,Mantiqueira/Sesc,95.71036163209106
+266,Piratininga,Piratininga,99.873797333372
+267,Jardim Leblon,Copacabana,82.80844065077335
+268,São Pedro,Jardim Europa,99.09583659503414
+269,Minascaixa,Serra Verde,93.44251359824038
+270,das Laranjeiras,Planalto,97.27663529519708
+271,Clóris,Planalto,63.58576439531136
+272,Sao Joao Batista,São João Batista,99.96043465488084
+273,São João Batista,São João Batista,71.92193500477597
+274,Santa Mônica,Copacabana,87.56927914202113
+275,Braúnas,Garças/Braúnas,82.38883046192802
+276,Capitão Eduardo,Capitão Eduardo,97.82700322397308
+277,São Gabriel,Belmonte,98.6289067564669
+278,Pirajá,São Paulo/Goiânia,99.99026701579696
+279,Antônio Torres,Belmonte,100.0
+280,Minaslândia,Primeiro de Maio,82.38762246965248
+281,Providência,Primeiro de Maio,99.46793775939344
+282,Candelária,Venda Nova,99.65457900399704
+283,São Pedro,Jardim Europa,87.40954288251777
+284,Ipê,São Paulo/Goiânia,100.0
+286,Palmital,Antônio Carlos,100.0
+287,João Pessoa,Concórdia,75.54606320248367
+288,Goiânia,São Paulo/Goiânia,81.04655055827547
+289,Califórnia,Glória,55.44891246445373
+290,Lindéia,Lindéia,100.0
+291,Dom Cabral,PUC,99.9265344502445
+292,Vale do Jatobá,Jatobá,100.0
+293,Bom Sucesso,Betânia,95.64799192338877
+294,Líder,Betânia,100.0
+295,Betânia,Betânia,99.19100731348867
+296,Salgado Filho,Jardim América,99.89950056330858
+297,Alpes,Morro das Pedras,36.63378076742423
+298,Nova Granada,Jardim América,99.85815188952974
+299,Progresso,Barroca,99.81358147709531
+300,São Rafael,Jardim América,100.0
+301,Ambrosina,Jardim América,100.0
+302,Sexta,Antônio Carlos,38.01007078730546
+303,Américo Werneck,Floresta/Santa Tereza,62.96185720556284
+304,Cidade Nova,Cristiano Machado,90.770437236833
+305,"São Francisco, Sétima Seção",Antônio Carlos,97.93204196547296
+306,Engenho Nogueira,Ouro Preto,69.04259580482272
+307,Mariano de Abreu,Boa Vista,91.39887752096804
+308,Ipê,São Paulo/Goiânia,100.0
+309,Juliana,Jaqueline,56.92074817202689
+310,Visconde do Rio Branco,Piratininga,84.3034535547627
+311,Nossa Senhora da Conceição,Cafezal,99.58544894423041
+312,das Mangabeiras,Mangabeiras,87.96319859992826
+313,Marçola,Cafezal,93.41092475249663
+314,Calafate,Barroca,60.30334881131465
+315,Cidade Jardim,Prudente de Morais,99.90808658291161
+316,Santa Amélia,Santa Amélia,99.1072093619452
+317,Parque Aviação,São Bernardo,100.0
+318,São Bernardo,São Bernardo,98.09846209967425
+319,Vista do Sol,Belmonte,99.5792719055971
+320,São Luíz,UFMG,42.80374204727172
+321,Solimões,Isidoro Norte,66.2597011316113
+322,Jaqueline,Jaqueline,96.97281873759556
+323,Guarani,Primeiro de Maio,83.91098153693473
+324,Novo Aarão Reis,Tupi/Floramar,92.32056454512771
+325,Belmonte,Belmonte,92.57324268881038
+326,Madre Gertrudes,Cabana,96.2530212216333
